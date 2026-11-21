@@ -1,6 +1,6 @@
 cask "moordeck" do
-  version "0.2.2"
-  sha256 "48434f200e9c9c9fdb3f84e97e50162a557338d77cd3b747795d873e48a446e8"
+  version "0.2.3"
+  sha256 "31edb8e7fabfac23b191da8d9e6bb8ca470fdc98c486f6ea80046d117098dcce"
 
   url "https://dl.moordeck.com/client/v#{version}/Moordeck_#{version}_macos-arm64.dmg"
   name "Moordeck"
